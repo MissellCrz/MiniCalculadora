@@ -1,0 +1,2 @@
+rootProject.name = "A343-E3.1 Mini Calculadora"
+include ':app'
